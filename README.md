@@ -45,7 +45,7 @@
 ## Features
 - Controll of your habits, activities and goals
 - Login and Signup
-
+- Has a responsive mobile screen
 
 ## Project Status
 Project is:  _complete_
