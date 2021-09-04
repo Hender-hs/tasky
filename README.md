@@ -6,11 +6,9 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
+* [Libs Used](#libs-used)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
@@ -19,16 +17,19 @@
 ## General Information
 - It's a big project. It was made by us in our course of full stack developer.
 - What problem does it (intend to) solve?
-- We were going to try to solve the difficult problem that anyone has... to create a good habits and achieve their goals.
+  We were going to try to solve the difficult problem that anyone has... to create a good habits and achieve their goals.
 - What is the purpose of your project?
-- Help the users to create habits in their own or in group, which means you can look for a group that you fit in and get started.
+  Help the users to create habits in their own or in group, which means you can look for a group that you fit in and get started.
 - Why did you guys undertake it?
-- In the first place was to pratice our front-end knowledge, and the second place was to solve a problem that touchs everyone.
+  In the first place was to pratice our front-end knowledge, and the second place was to solve a problem that touchs everyone.
 
 
 ## Technologies Used
 - JavaScript
 - React
+- GitFlow
+- Scrum and Kanbam
+
 
 ## Libs Used
 - Material-UI
