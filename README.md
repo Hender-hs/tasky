@@ -7,7 +7,6 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Libs Used](#libs-used)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
@@ -52,8 +51,7 @@ Project is:  _complete_
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired and craeted by: @brunovcg, @CarlosMartorini, @eduardofernandes2103. 
+- This project was inspired and craeted by: @brunovcg, @CarlosMartorini, @eduardofernandes2103 and me. 
 - A special thanks to these guys.
 
 
